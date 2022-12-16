@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "address": "HX5Se5npUbKk9ntEcQNBaBVdmkGHTGVwkM3Fs8H3Vk8T",
+            "share": 0,
+            "verified": true
+        },
+        {
+            "address": "9dvvT4BPG6hvPHhvRXpBAvd6xEnP2hoeArVKnZyCgQRF",
+            "share": 100,
+            "verified": false
+        }
+    ],
+    "name": "",
+    "seller_fee_basis_points": 10000,
+    "symbol": "SolGats",
+    "uri": "https://nftstorage.link/ipfs/bafybeie5r3ghxo3dilduobx7ahcqy7jvzxudnejvc7gcg74tj6yk6lodhq/15.json"
+}
